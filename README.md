@@ -3,8 +3,11 @@ REST API em Node.js para gerenciar notificações de alertas para comprimentos d
 
 # Módulo "Users"
 Utilizado para gerenciar os dados relativos ao usuário como, cadastro, login, alteração de dados pessoais e foto de perfil.
-### Rotas
+
+### Rotas de usuários
 - [POST] - /users/signup
 - [POST] - /users/signin
 - [POST] - /users/profile
 - [POST] - /users/profile-pic
+
+
